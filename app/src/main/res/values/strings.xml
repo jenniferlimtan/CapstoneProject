@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">House Bill Splitter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_housemate">Housemates</string>
+    <string name="title_billitems">Bill Items</string>
+    <string name="title_billsharing">Sharing Details</string>
+    <string name="title_admob">Advertisement</string>
+
+    <string name="permission_contact_rationale">You need to allow access to Contacts</string>
+    <string name="permission_contact_denied">Permission to access Contacts has been denied.</string>
+    <string name="permission_contact_neverask">Permission to access Contacts has been denied.</string>
+    <string name="permission_delete_housemate">Are you sure you want to delete? Note: Bill Sharing Information will also be deleted.</string>
+    <string name="permission_delete_billitem">Are you sure you want to delete?</string>
+    <string name="permission_external_storage_denied">Permission to access External Storage has been denied.</string>
+
+    <string name="search_housemate">Search by Name</string>
+
+    <string name="add_yourself">Add Yourself</string>
+    <string name="add_housemate">Add Housemate</string>
+    <string name="edit_billitem">Edit Bill Item</string>
+    <string name="new_billitem">New Bill Item</string>
+
+    <string name="billitem_desc">Description</string>
+    <string name="billitem_amt">$ Amount</string>
+    <string name="total">TOTAL</string>
+    <string name="default_total">0.00</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_search">Search</string>
+    <string name="action_allow">Allow</string>
+    <string name="action_deny">Deny</string>
+    <string name="action_sign_in">Google Sign In</string>
+
+    <string name="msg_total_percentage">Total of Percentage must be 100%</string>
+    <string name="msg_invalid_input">Invalid Input %1$s</string>
+    <string name="msg_mandatory">Please fill-in %1$s</string>
+    <string name="msg_deleted">Deleted.</string>
+    <string name="msg_saved">Saved.</string>
+    <string name="msg_welcome">Welcome %1$s!</string>
+    <string name="msg_delete_failed">Unable to delete.</string>
+    <string name="msg_save_failed">Unable to save.</string>
+    <string name="msg_signin_failed">Unable to sign in.</string>
+    <string name="msg_loading">Loading…</string>
+    <string name="empty_widget">No Information Available</string>
+
+
+    <string name="constant_dash">-</string>
+    <string name="constant_percent">%</string>
+    <string name="screenshot_filename">HBS_%1$s.png</string>
+    <string name="amount_format">#,##0.00</string>
+    <string name="timestamp_format">yyyyMMdd-hhmmss</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="content_authority">com.example.android.housebillsplitter</string>
+
+    <string-array name="split_type_array">
+        <item>@string/split_equally</item>
+        <item>@string/split_by_percent</item>
+    </string-array>
+
+    <string name="split_by_percent">Split By %</string>
+    <string name="split_equally">Equal Sharing</string>
+</resources>

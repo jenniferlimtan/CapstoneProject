@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "406390802824",
+    "project_id": "housebillsplitter"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406390802824:android:fe821de50be16e91",
+        "android_client_info": {
+          "package_name": "com.example.android.housebillsplitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406390802824-igb157h48echdp73te5k595rg5glr6db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.housebillsplitter",
+            "certificate_hash": "D20DEE2577A783DC171CC176BDA972F524761BF3"
+          }
+        },
+        {
+          "client_id": "406390802824-hn5glrpvh5mvqpum1agvm4fmp8k6mc5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGcAtmXHQncGbPB8rQSZyZlAYAdDCEUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
